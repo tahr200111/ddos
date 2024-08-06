@@ -1,1 +1,2 @@
-# ddos
+# ALQADHI_HK_DDoS
+DoS tool Copyright By ALQADHI_HK YEMEN
